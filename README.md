@@ -1,5 +1,5 @@
 <h1><b>Hey there! I'm Wilter Díaz👋</b></h1>
-<h4>👨🏻‍💻  About Me</h4><br>
+<h4>👨🏻‍💻  About Me</h4>
 
 I'm a ✨Computer Science Engineering Student and Software developer in constant learning✨<br>
 I define myself as proactive, good listener and kind💖<br>
