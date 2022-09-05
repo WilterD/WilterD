@@ -1,28 +1,31 @@
 <h1><b>Hey there! I'm Wilter Díaz👋</b></h1>
 <h4>👨🏻‍💻  About Me</h4>
 
-I'm a ✨Computer Science Engineering Student and Software developer in constant learning✨<br>
+I'm a Computer Science Engineering Student and Software developer in constant learning✨<br>
 I define myself as proactive, good listener and kind💖<br>
-🤓 I’m currently working on personal and teamwork projects based on web development and mobile applications<br>
-💬 Ask me about databases, data structures or any logic for specific tasks<br>
-⚡ Fun facts:<br>
-💻 I'm self-taught on most of the technologies I work with<br>
+I’m currently working on personal and teamwork projects based on web development and mobile applications 🤓 <br>
+Ask me about databases, data structures or any logic for specific tasks 💬<br>
+Fun facts: ⚡<br>
+I'm self-taught on most of the technologies I work with 💻<br>
 I always like to learn something new ✌<br>
-<h4>🛠  Tech Stack </h4>
+<h4>Tech Stack 🛠 </h4>
 
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Php](https://img.shields.io/badge/PHP-05122A?style=flat&logo=php&logoColor=white)&nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-05122A?style=flat&logo=laravel&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=java&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
- #SQL #MySql #PHP<br>
+
+
+ #SQL #MySql #Postgres<br>
 
 <h1><b> 🤝🏻  Connect with Me </b></h1>
 <p align="center">
